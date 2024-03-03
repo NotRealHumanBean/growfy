@@ -482,7 +482,7 @@
 @media (min-width: 992px) {
   .big-image::before {
     content: "";
-    background: url("img/help/div.svg") 0 0/100% no-repeat;
+    background: url("../img/help/div.svg") 0 0/100% no-repeat;
     width: 122px;
     height: 122px;
     position: absolute;
@@ -1313,7 +1313,7 @@ html {
   .cart-header__quantity {
     width: 55px;
     height: 66px;
-    background: url("img/cart2.png") 1px 11px/50px no-repeat; }
+    background: url("../img/cart2.png") 1px 11px/50px no-repeat; }
   .header__button {
     padding: 10px 10px;
     font-size: 12px; } }
