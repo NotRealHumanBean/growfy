@@ -81,7 +81,7 @@
 .title-decorated::before {
   content: "";
   position: absolute;
-  background-image: url("img/main/div.svg");
+  background-image: url("../img/main/div.svg");
   top: -5%;
   left: -5%;
   width: 122px;
